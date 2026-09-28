@@ -4,6 +4,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './',
     plugins: [react(), tailwindcss()],
     server: {
       hmr: process.env.DISABLE_HMR !== 'true',
@@ -11,4 +12,3 @@ export default defineConfig(() => {
     },
   };
 });
-
