@@ -1,0 +1,6 @@
+{
+  "name": "Picnic in the Park - Sheerness Town Team & The Big Bike Revival",
+  "description": "Official community event web app for Picnic in the Park & The Big Bike Revival: schedule, free bike tune-up booking, interactive park map, picnic checklist, and family activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
